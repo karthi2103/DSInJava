@@ -5,5 +5,5 @@ Tests are added for all data structures in testNG.
 
 ## Data Structures
 
-* SinglyLinkedList
+* [SinglyLinkedList](https://github.com/karthi2103/DSInJava/blob/main/src/main/java/implementation/JLinkedList/SinglyLinkedList/SinglyLinkedList.java)
 * DoublyLinkedList
